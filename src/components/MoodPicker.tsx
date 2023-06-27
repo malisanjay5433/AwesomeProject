@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
   descriptionText: {
     color: '#454C73',
     fontWeight: 'bold',
-    fontSize: 1,
+    fontSize: 12,
     textAlign: 'center',
   },
 });
